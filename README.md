@@ -1,14 +1,12 @@
 alfred-slack
 ============
 
-[![Gitter](https://badges.gitter.im/yannickglt/alfred-slack.svg)](https://gitter.im/yannickglt/alfred-slack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 Open conversation with a contact in Slack
 
 # To start
 1. Download and install [Slack.alfredworkflow](https://github.com/packal/repository/raw/master/com.yannickglt.alfred2.slack/slack.alfredworkflow)
 2. Create a custom app for your team following [these steps](#create-an-app-for-your-team).
-3. Once you have your client ID and Secret, visit the address [https://yannickglt.github.io/alfred-slack/](https://yannickglt.github.io/alfred-slack/) to generate a unique code for authentication in the Workflow.
+3. Once you have your client ID and Secret, visit the address [https://veetase.github.io/alfred-slack/](https://veetase.github.io/alfred-slack/) to generate a unique code for authentication in the Workflow.
   
     1. Enter your team name in the first field and your client ID in the second one, then click on the button "Generate code".
       
